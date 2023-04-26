@@ -14,8 +14,4 @@
 - jdk (>=1.7) 
 - mysql 
 - Eclipse/Netbeans/any other IDE 
-## **Steps:**
-1. Import 'ProjectFinal.sql' into mysql database named 'Bank2'.
-2. Open Eclipse/Netbeans/any other IDE, open this project then build & run.
 
-**This project was developed in Netbeans IDE.**
