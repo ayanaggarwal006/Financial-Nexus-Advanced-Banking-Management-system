@@ -85,7 +85,7 @@ public class WelcomePage extends javax.swing.JFrame {
         jLabel1.setBackground(new java.awt.Color(236, 240, 241));
         jLabel1.setFont(new java.awt.Font("Ubuntu Light", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(254, 254, 254));
-        jLabel1.setText("LAKSHMI BANK");
+        jLabel1.setText("Financial Nexus");
 
         jLabel6.setBackground(new java.awt.Color(236, 240, 241));
         jLabel6.setFont(new java.awt.Font("Ubuntu Light", 1, 36)); // NOI18N
